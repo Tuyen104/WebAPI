@@ -1,0 +1,5 @@
+
+* JWT authentication (json web token): security for web api
+// https://www.red-gate.com/simple-talk/dotnet/net-development/jwt-authentication-microservices-net/
+
+* Ex: https://github.com/ngothanhtung/EAP.Example/ => generate token and 
